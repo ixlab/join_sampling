@@ -1,3 +1,7 @@
+Publication:
+Our work on join sampling has been published at SSDBM 17! and can be found at https://arxiv.org/abs/1601.05118
+
+Code: 
 author = "Niranjan Kamat (kamatn@cse.osu.edu)"
 copyright = "Copyright (C) 2014 The Ohio State University"
 license = "BSD 3-Clause"
